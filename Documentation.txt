@@ -1,0 +1,7 @@
+Main Logic:
+Step 1:
+    To Do interface: {
+        title,
+        isCompleted
+    }
+    get the value from input feild on submit
